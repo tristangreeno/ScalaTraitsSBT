@@ -1,4 +1,4 @@
-This is a an [activator](https://typesafe.com/activator) template for removing
+This is an [activator](https://typesafe.com/activator) template for removing
 the boilerplate in setting up a new scala project:
 
 * sbt 0.13.5
